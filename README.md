@@ -1,2 +1,3 @@
 # GitJourney
-My Journey to get the gist of git
+My Journey to get the gist of git ...
+... with this [Udemy Course](https://www.udemy.com/share/100Sk0B0ESdFdTQ3w=/)
